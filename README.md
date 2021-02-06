@@ -23,5 +23,5 @@ Enter the Apktool.Zip Module
 
 Once done, reboot the phone.
 
-## Good luck
+Good luck
 
