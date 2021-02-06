@@ -12,7 +12,7 @@ Thank you developer Apktool X
 
 How to install
 
-Download
+[Download](https://github.com/kakathic/Apktool_X/archive/main.zip)
 
 Your device must be rooted and have Magisk
 
