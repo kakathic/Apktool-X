@@ -20,3 +20,45 @@ Once done, reboot the phone.
 
 Good luck
 
+#### Support
+
+aapt
+aapt2
+apktool_x
+baksmali
+baksmali2
+smali
+signodex
+7za
+apktool_old
+apktool
+apktool_beta
+java
+sign_apk
+oat2dex
+oat2dex2
+jar2dex
+dex2jar
+jasmin2jar
+jar2jasmin
+apktool_update
+zip
+zipalign
+zipsigner
+busybox
+toybox
+v.v
+
+It will automatically update when the computer reboots when the network is available.
+
+Or can update manually via apktool_update
+
+How to install Apktool X
+Type the command apktool_x
+And go to /sdcard/Apktool-X.apk
+
+To install Apktool X
+
+Support Apktool version 2.5.1, 2.4.2 and 2.4.1
+
+Follow: http://t.me/modmiui/#Apktool
