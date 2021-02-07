@@ -2,7 +2,7 @@
 
 ##### Version=2
 
-su -c echo 'locale=$(getprop persist.sys.locale|awk -F "-" '{print $1"_"$NF}')
+echo 'locale=$(getprop persist.sys.locale|awk -F "-" '{print $1"_"$NF}')
   [[ ${locale} == "" ]] && locale=$(settings get system system_locales|awk -F "," '{print $1}'|awk -F "-" '{print $1"_"$NF}')
 if [ "$locale" == "vi_VN" ];then
 caiapk="- File Apk ở đường dẫn /sdcard/Apktool-X.apk"
