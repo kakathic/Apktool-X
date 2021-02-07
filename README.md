@@ -61,4 +61,4 @@ To install Apktool X
 
 Apktool version 2.5.1, 2.4.2 and 2.4.1
 
-Follow: http://t.me/modmiui/#Apktool
+Follow: [Telegram](http://t.me/modmiui/#Apktool)
