@@ -59,6 +59,6 @@ And go to /sdcard/Apktool-X.apk
 
 To install Apktool X
 
-Support Apktool version 2.5.1, 2.4.2 and 2.4.1
+Apktool version 2.5.1, 2.4.2 and 2.4.1
 
 Follow: http://t.me/modmiui/#Apktool
