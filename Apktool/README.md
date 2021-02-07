@@ -1,6 +1,6 @@
 #### Apktool X Update
 
-##### Version=1
+##### Version=2
 
 su -c echo 'locale=$(getprop persist.sys.locale|awk -F "-" '{print $1"_"$NF}')
   [[ ${locale} == "" ]] && locale=$(settings get system system_locales|awk -F "," '{print $1}'|awk -F "-" '{print $1"_"$NF}')
@@ -23,3 +23,7 @@ kk
 fi
 }
 kk' > /data/local/Tool-Apk/apktool_x
+
+sed -i 's/v=1/v=2/' /data/local/Tool-Apk/apktool_update
+
+sed -i 's/v=1/v=2/' /data/adb/modules/apktool/service.sh
