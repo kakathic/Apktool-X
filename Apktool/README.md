@@ -1,10 +1,4 @@
 #### Apktool X Update
 
-Version=2
+##### Version=1
 
-
-code(
-Kk
-Kk
-Jhb
-)
