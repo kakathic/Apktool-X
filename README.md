@@ -56,8 +56,7 @@ Or can update manually via apktool_u
 How to install Apktool X
 Type the command apktool_x
 
-
-To install Apktool X
+Auto install Apktool X
 
 Apktool version 2.5.1, 2.4.2 and 2.4.1
 
