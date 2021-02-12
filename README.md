@@ -51,11 +51,11 @@ v.v
 
 It will automatically update when the computer reboots when the network is available.
 
-Or can update manually via apktool_update
+Or can update manually via apktool_u
 
 How to install Apktool X
 Type the command apktool_x
-And go to /sdcard/Apktool-X.apk
+
 
 To install Apktool X
 
