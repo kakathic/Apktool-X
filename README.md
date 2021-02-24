@@ -4,7 +4,7 @@ Apktool for Android
 
 Thanks Author Apktool: [iBotPeaches](https://github.com/iBotPeaches/Apktool)
 
-Thank you developer Apktool X 
+Thank you: Andro Black
 
 How to install
 
