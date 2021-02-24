@@ -1,6 +1,6 @@
-# Apktool X
+# Apktool For Android
 
-Apktool for Android
+Apktool X
 
 Thanks Author Apktool: [iBotPeaches](https://github.com/iBotPeaches/Apktool)
 
