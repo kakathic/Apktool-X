@@ -8,7 +8,7 @@ Thank you: Andro Black
 
 How to install
 
-[Download](https://drive.google.com/folderview?id=13SnJHwJ8-4xHQ55Z25bO9cj8WyfhcJAO)
+[Download](https://github.com/kakathic/Tool-Terminal)
 
 Your device must be rooted and have Magisk
 
